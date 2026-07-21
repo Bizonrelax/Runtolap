@@ -21,10 +21,7 @@ The **Runtolap** project bypasses this fundamental barrier by establishing a rig
 3.  **Cyclic Ring Resolution ($r=1$):** The base of the induction collapses into a finite residue ring $\mathbb{Z}_p$. The existence of unblocked coordinates is firmly guaranteed via the modular Pigeonhole Principle combined with global structural LCM boundary constraints (resolving small-parameter anomalies for $n=3$ and $n=4$).
 
 ## File Structure
-
-*   `proof.md` — The complete mathematical proof with full vector notations and anomaly resolutions (English and Russian versions available).
-*   `LICENSE` — The standard text of **The Unlicense** dedicated to the public domain.
-
+wow
 ---
 
 ## Описание проекта (Russian Version)
