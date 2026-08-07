@@ -1,4 +1,5 @@
 # Runtolap
+(fake) no proof
 
 A formal mathematical preprint presenting a complete proof of the **Lonely Runner Conjecture** using a novel framework based on **Rational Rank Reduction** and modular torus endomorphisms.
 
